@@ -11,8 +11,8 @@ sudo apt install -y libboost-dev
 sudo apt install -y libjemalloc-dev
 sudo apt install -y build-essential
 sudo apt install -y numactl
-sudo apt install -y python python3-scipy
-sudo apt install -y iotop sysstat zsh python-matplotlib python3-matplotlib
+sudo apt install -y python3-scipy
+sudo apt install -y iotop sysstat zsh python3-matplotlib
 
 # cd dbx1000_logging; sudo python scripts/prepareEC2_i3.py 8
 
